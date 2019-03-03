@@ -1,0 +1,15 @@
+body {
+text-align: center;
+}
+.header {
+  background-image: url("/Users/jaekyawovl/Desktop/broadway/resources/images/the-flatiron-building.png");
+  background-size: cover;
+  height: 190px;
+
+}
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
