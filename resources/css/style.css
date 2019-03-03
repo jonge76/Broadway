@@ -25,3 +25,22 @@ h3 {
 .supporting-item p {
   font-size: 14px;
 }
+.header h2 {
+  font-size: 23px;
+}
+.about {
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 32px;
+}
+
+.about h3 {
+  font-size: 23px;
+}
+.bottom-nav {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
